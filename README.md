@@ -27,12 +27,15 @@ I created this app to test the capabilities of Unity3D and Vuforia for AR produc
 ```
 git clone git@github.com:tekm/ar-phone-keyboard.git
 cd ar-phone-keyboard
+Open in Unity3D/Drag & Drop
+Export to iOS/Android device and test on your personal device
 ```
 
 ## Features
 List of features ready and TODOs for future development
-* 6 keys that play musical notes
+* 6 3D buttons (keys) that play musical notes
 * Tracking points on simple background
+* AR camera implemented using Vuforia
 
 To-do list:
 * Add more keys
