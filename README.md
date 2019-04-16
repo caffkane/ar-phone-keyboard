@@ -14,9 +14,10 @@
 
 ## General info
 I created this app to test the capabilities of Unity3D and Vuforia for AR production apps. I wanted to learn more about AR/VR and understand how difficult it is to make large scale apps.
+This app works on iOS/Android through touch input on the 3D cubes. It plays a sound when touched.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![App in Action](img/Screen1.png)
 
 ## Technologies
 * Unity3D - 2018.3.12
@@ -43,7 +44,8 @@ To-do list:
 * More 3D and full featured keyboard
 
 ## Status
-Project is: _in progress_
+Project is: _feature complete_
+I may add more things/change up image/make it easier to work with in the future.
 
 ## Inspiration
 Nintendo 3DS AR Camera\
